@@ -1,0 +1,5 @@
+qui correspond effectivement à la transformée de Fourier d'un signal de durée infinie En analyse, la transformation de Fourier est une extension, pour les fonctions non périodiques, du développement en série de Fourier des fonctions périodiques. La transformation de Fourier associe à une fonction intégrable définie sur ℝ et à valeurs réelles ou complexes, une autre fonction sur ℝ appelée transformée de Fourier dont la variable indépendante peut s'interpréter en physique comme la fréquence ou la pulsation.
+
+La transformée de Fourier représente une fonction par la densité spectrale dont elle provient, en tant que moyenne de fonctions trigonométriques de toutes fréquences. La théorie de la mesure ainsi que la théorie des distributions permettent de définir rigoureusement la transformée de Fourier dans toute sa généralité, elle joue un rôle fondamental dans l'analyse harmonique.
+
+Lorsqu'une fonction représente un phénomène physique, comme l'état du champ électromagnétique ou du champ acoustique en un point, on l'appelle signal et sa transformée de Fourier s'appelle son spectre.

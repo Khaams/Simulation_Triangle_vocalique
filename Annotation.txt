@@ -1,0 +1,6 @@
+Pour observer un signal sur une durée finie on le multiplie par une fonction fenêtre d'observation également appelée fenêtre de pondération ou d'apodisation. La plus simple est la fenêtre rectangulaire. 
+Toute observation étant de durée limitée, on applique forcément une fenêtre par rapport à un signal théorique infini on utilise donc au moins une fenêtre même si on l'applique sans s'en rendre compte.
+Au lieu d'étudier le signal dans son entièreté on étudie le signal tronqué en passant dans le domaine fréquentiel via une transformée de Fourier on obtient le produit  de convolution.
+L'utilisation d'une fenêtre de pondération va donc changer la transformée de Fourier du signal.
+La transformée de Fourier du signal analysé est convoluée avec la transformée de Fourier de la fenêtre dans l'idéal pour ne pas biaiser le spectre initial il faudra que l'allure de la fenêtre spectrale soit une fonction de Dirac.
+Or le signal temporel ayant un spectre en fonction de dirac est un signal constant infini ce qui est impossible en pratique.

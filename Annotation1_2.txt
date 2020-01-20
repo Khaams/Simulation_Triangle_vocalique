@@ -1,0 +1,6 @@
+Les allures spectrales des fenêtres de pondérations présentent une succession de lobes pour se rapprocher d'une fonction de Dirac, il faut que le lobe principal soit le plus étroit possible tandis que les lobes secondaires doivent
+être les plus faibles possible. Plus le lobe principal d'une fenêtre aura tendance à être étroit, plus ses lobes secondaires seront importants. Il y a donc toujours un compromis à faire entre largeur du lobe principal et importance 
+des lobes secondaires. On remarque que la fenêtre rectangulaire a le lobe principal le plus étroit mais ses lobes secondaires sont les plus importants au contraire celle de Blackman a les plus faibles lobes secondaires mais un lobe 
+principal plus large Le type de fenêtre est à choisir selon ce qu'on souhaite observer d'un spectre la localisation des maximums la localisation de l'énergie selon les fréquences la valeur des maximums. Plus la fenêtre choisie aura 
+une grande durée temporelle plus elle sera étroite dans le domaine fréquentiel. Ainsi en prenant une fenêtre infiniment longue temporellement on aboutit à la limite à un dirac en fréquence qui est l'élément neutre du produit de 
+convolution. Ainsi pour une fenêtre infiniment longue on retrouve le spectre réel du signal analysé.
